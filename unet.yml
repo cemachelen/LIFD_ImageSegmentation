@@ -1,0 +1,15 @@
+name: unet
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - notebook
+  - fastai
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
+  - numpy
+  - pytorch
+  - matplotlib
+  - cartopy
