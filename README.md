@@ -9,7 +9,7 @@
 
 # Image Segmentation
 
-[![GitHub release](https://img.shields.io/github/release/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_ImageSegmentation/total.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_DimensionalityReduction.svg)[![DOI](https://zenodo.org/badge/366734586.svg)](https://zenodo.org/badge/latestdoi/366734586)
+[![GitHub release](https://img.shields.io/github/release/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_ImageSegmentation/total.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_DimensionalityReduction.svg) [![DOI](https://zenodo.org/badge/366734586.svg)](https://zenodo.org/badge/latestdoi/366734586)
 
 [![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-unet.yml/badge.svg)](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-unet.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_ImageSegmentation/HEAD?labpath=Image_Segmentation.ipynb)
@@ -41,7 +41,7 @@ jupyter-notebook
 
 This notebook is designed to run on a laptop with no special hardware required. However, training of neural networks can take a long time (hours) without dedicated GPU hardware. If you have a GPU, it is recommended to do a local installation as outlined in the repository [howtorun](https://github.com/cemac/LIFD_ENV_ML_NOTEBOOKS/howtorun.md) and [jupyter_notebooks](https://github.com/cemac/LIFD_ENV_ML_NOTEBOOKS/jupyter_notebooks.md) sections. Otherwise, online compute platforms which offer GPU access (e.g. Google Colab) are strongly recommended.
 
-## Licence Information
+# Licence Information
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">LIFD_ENV_ML_NOTEBOOKS</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://cemac.leeds.ac.uk/" property="cc:attributionName" rel="cc:attributionURL">CEMAC</a> are licenced under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
