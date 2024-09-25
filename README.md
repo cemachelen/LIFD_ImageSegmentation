@@ -11,7 +11,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_ImageSegmentation.svg)](https://github.com/cemac/LIFD_ImageSegmentation/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_ImageSegmentation/total.svg)](https://github.com/cemac/LIFD_ImageSegmentation/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_ImageSegmentation.svg)[![DOI](https://zenodo.org/badge/366734586.svg)](https://zenodo.org/badge/latestdoi/366734586)
 
-[![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-DR.yml/badge.svg)](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-DR.yml)
+[![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-unet.yml/badge.svg)](https://github.com/cemac/LIFD_ImageSegmentation/actions/workflows/python-package-conda-unet.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_ImageSegmentation/HEAD?labpath=DimensionalityReduction.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cemac/LIFD_ImageSegmentation/blob/main/LIFD_dimensionality_reduction_colab.ipynb)
 
