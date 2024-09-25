@@ -19,7 +19,7 @@ jobs:
         with:
           miniconda-version: 'latest'
           auto-update-conda: false
-          use-only-tar-bz2: true
+          use-only-tar-bz2: false
           environment-file: unet.yml
           environment-name: unet
       - name: Install test packages
