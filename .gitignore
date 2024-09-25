@@ -1,2 +1,7 @@
 .ipynb_checkpoints/*
 __pycache__/*
+data/*
+models_out/*
+var_amp_synthetic/*
+*.zip
+*.pdf
